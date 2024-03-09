@@ -3,3 +3,51 @@
     padding: 1rem;
     
 }
+
+.nav {
+    columns: 3;
+    display: flex;
+    gap: 3rem;
+    align-items: center;
+   
+    
+}
+.div1{
+    display: flex;
+    gap: 3rem;
+    align-items: center;
+    margin-left: 15rem;
+
+}
+
+.div1 > i{
+    background-color: red;
+    color: white;
+    border-radius: 40%;
+    height: 1rem;
+    width: 2rem;
+}
+
+.div2{
+    margin-left: 5rem;
+}
+
+.search {
+    display: flex;
+   justify-content: center;
+   gap: 3rem;
+   border-radius:3rem;
+   border: 1px solid;
+   align-items : center;
+   height: 3rem;
+   width: 50.5rem;
+   margin-left: 15rem;
+
+}
+
+.search > div{
+    border-right:0.1rem solid;
+    border-right-color: gray;
+   height: 2rem;
+}
+
