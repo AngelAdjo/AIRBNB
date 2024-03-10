@@ -35,6 +35,15 @@
     gap: 2rem;
 }
 
+.bars{
+    border: 0.1rem solid;
+    border-color: rgb(219, 216, 216);
+    justify-content:space-evenly ;
+    border-radius: 3rem;
+    padding: 0.5rem;
+
+}
+
 .search {
     display: flex;
    justify-content: center;
