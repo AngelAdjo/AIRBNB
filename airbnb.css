@@ -72,7 +72,7 @@
 .icons{
     display: flex;
     font-size: 1rem;
-    gap: 4rem;
+    gap: 5rem;
     padding-top: 2rem;
     margin-left: 2rem;
 }
@@ -81,13 +81,62 @@
     font-size: 5px;
 }
 
-.hotel-row1{
-  display: flex;
-   margin-left: 1rem;
-  
+.filters{
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+   
+
+
 }
 
-.rooms{
+.img{
+    height: 300px;
+    width: 350px;
+    border: 0.1rem solid;
     border-radius: 2rem;
+    border-color: rgb(190, 189, 189);
+   
 }
+
+.hotel{
+    border: 0.3rem solid;
+}
+.row1{
+    display: flex;
+    height: 2vh;
+    padding-bottom: 35rem;
+    gap:1.9rem;
+}
+
+.row1 > p {
+    margin-left: 2rem;
+}
+
+.row2{
+    display: flex;
+    gap: 1.9rem;
+}
+
+.row3{
+    display: flex;
+    gap: 1.9rem;
+}
+
+.h1{
+    text-align: center;
+    gap: 2rem;
+}
+
+.button{
+    background-color: black;
+    color: white;
+    font-size: 1.5rem;
+    border: 0.1rem solid;
+    border-radius: 1rem;
+    margin-left: 40rem;
+    padding: 1rem;
+}
+
+
 
