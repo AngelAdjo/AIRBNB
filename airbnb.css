@@ -45,6 +45,12 @@
 
 }
 
+.heart{
+    position: absolute;
+    right: 3rem;
+}
+
+
 .search {
     display: flex;
    justify-content: center;
